@@ -1,0 +1,31 @@
+<!-- Layout template from W3schools.com -->
+
+  <style>  
+  /* Style the header */
+  header {
+    background-color: rgb(135, 233, 160);
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+  }
+  p{
+    padding: 10px;
+    text-align: left;
+  }
+ ul {background-color: khaki;}
+ 
+ body {
+    background-color: lavender;
+  }
+
+  /* Style the footer */
+  footer {
+    background-color: rgb(131, 196, 195);
+    padding: 10px;
+    text-align: center;
+    color: rgb(7, 4, 17);
+  }
+  
+  
+</style>

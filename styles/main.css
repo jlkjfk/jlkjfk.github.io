@@ -26,6 +26,15 @@
     text-align: center;
     color: rgb(7, 4, 17);
   }
-  
-  
+  /* this is from html-css.html  */
+  h1 {
+    text-align: center;
+    color:orange;
+  }
+  span{
+    padding: 50px;
+  }
+    body {
+    background-color: lavender;
+  }
 </style>

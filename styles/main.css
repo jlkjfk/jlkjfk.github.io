@@ -2,20 +2,22 @@
 
   <style>  
  
-  body {
-    background-color: lavender;
-    font-family: arial;
-    padding: 10px;
-    text-align: center;
-  }
+ 
 
 
-  header {
+  .header {
     background-color: rgb(135, 233, 160);
     padding: 30px;
     text-align: center;
     font-size: 35px;
     color: white;
+  }
+
+  body {
+    background-color: lavender;
+    font-family: arial;
+    padding: 10px;
+    text-align: center;
   }
   p{
     padding: 10px 50px 10px 30px;

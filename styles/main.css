@@ -1,7 +1,15 @@
 
 
   <style>  
-  /* Style the header */
+ 
+  body {
+    background-color: lavender;
+    font-family: arial;
+    padding: 10px;
+    text-align: center;
+  }
+
+
   header {
     background-color: rgb(135, 233, 160);
     padding: 30px;
@@ -15,21 +23,14 @@
   }
  ul,ol {background-color: khaki;}
 
- body {
-    background-color: lavender;
-    font-family: arial;
-    padding: 10px;
-    text-align: center;
-  }
 
-  /* Style the footer */
   footer {
     background-color: rgb(131, 196, 195);
     padding: 10px;
     text-align: center;
     color: rgb(7, 4, 17);
   }
-  /* this is from html-css.html  */
+ 
   h1 {
     text-align: center;
     color:orange;

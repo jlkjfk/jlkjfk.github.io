@@ -13,11 +13,13 @@
     padding: 10px;
     text-align: left;
   }
- ul {background-color: khaki;}
- ol {background-color: khaki;}
- 
+ ul,ol {background-color: khaki;}
+
  body {
     background-color: lavender;
+    font-family: arial;
+    padding: 10px;
+    text-align: center;
   }
 
   /* Style the footer */
@@ -37,7 +39,7 @@
   }
   
       h3{
-        color: rgb(181, 36, 20);
+        color: rgb(34, 96, 231);
         font-family: monospace;}
 
       p{font-style: inherit;

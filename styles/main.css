@@ -34,7 +34,17 @@
   span{
     padding: 50px;
   }
-    body {
-    background-color: lavender;
-  }
+  
+      h3{
+        color: rgb(255, 25, 0);
+        font-family: monospace;}
+
+      p{font-style: inherit;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: rgb(139, 97, 0);
+      }
+      
+      
+     
+   
 </style>

@@ -1,4 +1,4 @@
-<!-- Layout template from W3schools.com -->
+
 
   <style>  
   /* Style the header */
@@ -14,6 +14,7 @@
     text-align: left;
   }
  ul {background-color: khaki;}
+ ol {background-color: khaki;}
  
  body {
     background-color: lavender;

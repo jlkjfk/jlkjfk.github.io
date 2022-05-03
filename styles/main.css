@@ -50,7 +50,11 @@
         color: rgb(139, 97, 0);
       }
       
-      
+      @media (max-width:500px){
+        body{
+          color:blue;
+        }
+      }
      
-   
+    
 </style>

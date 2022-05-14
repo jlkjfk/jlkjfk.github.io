@@ -26,11 +26,11 @@
     text-align:center;
   }
   .child{
-    display: inline-block;
+    display:inline-flexbox;
     border: 2px solid red;
     
     padding:1rem 1rem;
-    vertical-align: auto;
+    vertical-align:auto;
     
   }
 

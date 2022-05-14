@@ -5,13 +5,13 @@
  
 
 
-  .header {
+  /* .header {
     background-color: rgb(135, 233, 160);
     padding: 30px;
     text-align: center;
     font-size: 35px;
     color: white;
-  }
+  } */
 
   body {
     background-color: lavender;
@@ -29,7 +29,7 @@
     padding:20px;
     border: 2px solid red;
   }
-  
+
   p{
     padding: 10px 50px 10px 30px;
     text-align: left;
@@ -37,12 +37,6 @@
  ul,ol {background-color: khaki;}
 
 
-  footer {
-    background-color: rgb(131, 196, 195);
-    padding: 10px;
-    text-align: center;
-    color: rgb(7, 4, 17);
-  }
  
   h1 {
     text-align: center;
@@ -67,7 +61,12 @@
         }
       }
     
-      
+      footer {
+        background-color: rgb(131, 196, 195);
+        padding: 10px;
+        text-align: center;
+        color: rgb(7, 4, 17);
+      }    
 
 
     

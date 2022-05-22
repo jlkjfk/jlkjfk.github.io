@@ -35,8 +35,8 @@
   }
 
   p{
-    padding: 10px 50px 10px 30px;
-    text-align: center,left;
+    padding: 10px 50px 10px 50px;
+    text-align: left;
   }
  ul,ol {background-color: khaki;}
 

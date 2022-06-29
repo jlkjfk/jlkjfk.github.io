@@ -59,11 +59,24 @@
         color: rgb(139, 97, 0);
       }
       
-      @media (max-width:500px){
+      /* @media (max-width:500px){
+        body{
+          color:blue;
+        }
+      } */
+
+      @media only screen and (max-width: 320px) {
         body{
           color:blue;
         }
       }
+
+      @media only screen and (min-device-width: 768px) {
+        body{
+          color:rgb(255, 0, 64);
+        }
+      }
+      
     
       footer {
         background-color: rgb(131, 196, 195);
